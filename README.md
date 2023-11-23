@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?text=designer&animation=fadeIn)
+
 <h1 align="center">Hi 👋, I'm eunji KIM :relaxed:</h1>
 <h3 align="center">I am a web designer.:tulip:</h3>
 
