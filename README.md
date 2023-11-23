@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm eunji KIM</h1>
+<h1 align="center">Hi 👋, I'm eunji KIM :relaxed:</h1>
 <h3 align="center">I am a web designer.:tulip:</h3>
 
 <h3 align="left">Connect with me:</h3>
