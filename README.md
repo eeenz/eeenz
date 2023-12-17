@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?text=designer&animation=fadeIn&fontColor=111&color=2e6ecf&type=Waving)
 
 <h1 align="center">Hi 👋, I'm eunji KIM :relaxed:</h1>
-<!-- <h3 align="center">I am a Front-end Developer.:tulip:</h3> -->
-<h3 align="center">It will eventually come true.:tulip:</h3>
+<h3 align="center">I am a Front-end Developer.:tulip:</h3>
+<!-- <h3 align="center">It will eventually come true.:tulip:</h3> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
